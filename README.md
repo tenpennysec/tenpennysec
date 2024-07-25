@@ -21,5 +21,5 @@ Nascido e criado no estado de Minas Gerais, e desde cedo tive uma fascinação p
 
 ###
 
-<img align="right" height="250" src="https://i.pinimg.com/originals/cd/04/aa/cd04aaa46d788fc6ef93fb9e2e7cb864.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/cd/04/aa/cd04aaa46d788fc6ef93fb9e2e7cb864.gif"  />
 
