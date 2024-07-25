@@ -1,20 +1,24 @@
-<h1 align="left">Salve👋</h1>
+<h2 align="left">Salve, Sou o TENPENNY...</h2>
 
 ###
 
-<h2 align="left">𝑬𝒖 𝒔𝒐𝒖 𝒐 TENPENNY...</h2>
+<img align="right" height="150" src="https://img.wattpad.com/f31783d4e68a34b48d059ab9cf852a86315490b1/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f534e786246424f434957385a41773d3d2d3137392e313661316431643033303537643530613433343430333730343733352e676966](https://i.pinimg.com/originals/cd/04/aa/cd04aaa46d788fc6ef93fb9e2e7cb864.gif"  />
 
 ###
 
-<h2 align="left">𝐒𝐨𝐛𝐫𝐞 𝐦𝐢𝐦:</h2>
-
-###
-
-<p align="left">* 𝐄𝐬𝐭𝐮𝐝𝐚𝐧𝐭𝐞 𝐝𝐞 𝐬𝐞𝐠𝐮𝐫𝐚𝐧ç𝐚 𝐝𝐚 𝐢𝐧𝐟𝐨𝐫𝐦𝐚çã𝐨<br>* CTF player<br></p>
-
-###
-
-<h1 align="left"></h1>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+</div>
 
 ###
 
@@ -23,11 +27,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
