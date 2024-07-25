@@ -1,44 +1,37 @@
-<h2 align="left">Salve, sou o tenpenny...</h2>
+<h1 align="left">Salve👋</h1>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tenpennysec&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tenpennysec&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h2 align="left">𝑬𝒖 𝒔𝒐𝒖 𝒐 TENPENNY...</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/cd/04/aa/cd04aaa46d788fc6ef93fb9e2e7cb864.gif"  />
+<h2 align="left">𝐒𝐨𝐛𝐫𝐞 𝐦𝐢𝐦:</h2>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
+<p align="left">* 𝐄𝐬𝐭𝐮𝐝𝐚𝐧𝐭𝐞 𝐝𝐞 𝐬𝐞𝐠𝐮𝐫𝐚𝐧ç𝐚 𝐝𝐚 𝐢𝐧𝐟𝐨𝐫𝐦𝐚çã𝐨<br>* CTF player<br></p>
+
+###
+
+<h1 align="left"></h1>
+
+###
+
+<h2 align="left">𝑯𝒂𝒃𝒊𝒍𝒊𝒅𝒂𝒅𝒆𝒔:</h2>
 
 ###
 
 <div align="left">
-  <a href="https://instagram.com/tenpenny_sec" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/tenpennysec/tenpennysec/output/snake.svg" alt="Snake animation" />
 
 ###
