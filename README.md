@@ -1,12 +1,11 @@
-<h2 align="left">Salve, Sou o TENPENNY...</h2>
-
-###
-
-<img align="right" height="200" src="https://i.pinimg.com/originals/cd/04/aa/cd04aaa46d788fc6ef93fb9e2e7cb864.gif"  />
+<h2 align="left">Salve, Sou o TENPENNY...
+Nascido e criado no estado de Minas Gerais, e desde cedo tive uma fascinação por tecnologia e computadores. Essa paixão me levou a escolher a cibersegurança como minha futura carreira. Atualmente, estou cursando Ciências da Computação, onde continuo me aprofundando no mundo da segurança digital e tecnologia da informação.
+</h2>
 
 ###
 
 <div align="left">
+  <h1>Habilidades...</h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -22,4 +21,5 @@
 
 ###
 
+<img align="right" height="250" src="https://i.pinimg.com/originals/cd/04/aa/cd04aaa46d788fc6ef93fb9e2e7cb864.gif"  />
 
